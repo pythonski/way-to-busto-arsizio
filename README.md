@@ -1,1 +1,1 @@
-A very simple dice game (currently, completely randomized) based on Journey to Mordor.
+A simple dice game based on Journey to Mordor.
